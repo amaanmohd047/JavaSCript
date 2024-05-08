@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to right, #74a8fc, #003180);
+}
+
+.container {
+  height: auto;
+  background: rgba(145, 187, 255, 0.2);
+  padding: 10px 30px 10px 30px;
+  width: max-content;
+  margin: auto;
+}
+
+.center-heading {
+  font-size: 60px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-variant: small-caps;
+}
